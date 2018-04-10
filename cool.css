@@ -1,0 +1,59 @@
+html{
+  box-sizing:border-box;
+}
+*,
+*::before.
+*::after{
+  box-sizing:inherit;
+}
+
+/* ************ 
+BASE STYLES
+*************/
+header{
+background:linear-gradient(darkred,red);
+  color:white;
+  font-size:20px;
+}
+a:link{
+  color:white;
+  opacity: 0.5px;
+  
+}
+img{
+ height:200px;
+ width:200px;
+}
+
+body{
+  color:#000;
+  font-size:40px;
+  font-family:sans-serif;
+  
+}
+
+ul{
+  text-align: center;
+  padding:10px;
+
+  
+}
+li{
+  display:inline;
+  padding:0px 10px 0px 10px;
+  
+}
+.push{
+padding:30px;
+border-radius:12px;
+font-size:30px;
+}
+.page{
+  
+}
+
+footer{
+  background:gray;
+  text-align:center;
+  
+}
